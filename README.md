@@ -1,5 +1,3 @@
-# Personal Projects
+# Ad Hoc Projects
 
-I'm performing an investment analysis model using several tools and techniques such as R programing, SQL and web scraping.
-
-The model will be gradually uploaded and shared in this repo.
+These projects in this repo are ad hoc work. Mostly they are for practicing new technical skill and testing model. Also, side projects from Data Analyst Bootcamp are shatred here.
