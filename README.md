@@ -1,4 +1,4 @@
-# Bootcamp Projects
+# Personal Projects
 
 I'm performing an investment analysis model using several tools and techniques such as R programing, SQL and web scraping.
 
